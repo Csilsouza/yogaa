@@ -7,7 +7,7 @@ git config --global user.email "Seu email do github aqui entre aspas"
 
 git init => Inicia um novo repositório na pasta que eu estou
 git add => Adiciona arquivos para srem comitados
-git add => Adiciona TODOS os arquivos de uma vez só
+git add . => Adiciona TODOS os arquivos de uma vez só
 
 git commit
 
